@@ -1,0 +1,10 @@
+google-api-python-client
+regex
+# 以下は脆弱性の修正が入った最低バージョン（2026-11 時点）
+certifi>=2026.10.19
+urllib3>=2.8.0
+pyasn1>=0.6.5
+protobuf>=6.33.5
+httplib2>=0.32.0
+requests>=2.33.0
+idna>=3.15
