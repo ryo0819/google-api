@@ -16,5 +16,5 @@ pyparsing==3.2.3
 requests==2.32.4
 rsa==4.9.1
 uritemplate==4.2.0
-urllib3==2.5.0
+urllib3==2.8.0
 regex==2026.4.4
